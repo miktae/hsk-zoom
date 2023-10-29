@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+#app {
+  display: flex;
+  margin-top: 9%;
+  align-items: center;
+  height: 100vh;
+  /* background: #000; */
+}
+
