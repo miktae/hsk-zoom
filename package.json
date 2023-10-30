@@ -1,0 +1,19 @@
+{
+  "name": "hsk-zoom",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "hanzi-writer": "^3.6.0",
+    "vue": "^3.3.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.5.0"
+  }
+}
